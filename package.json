@@ -1,0 +1,12 @@
+{
+  "name": "Bot-Discord",
+  "version": "0.1.0",
+  "description": "Projet bot discord Mirocksta",
+  "main": "index.js",
+  "repository": "https://github.com/Sacyfim/Bot-Discord.git",
+  "author": "<sacyfim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
